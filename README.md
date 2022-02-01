@@ -2,7 +2,7 @@
 
 <b>Due</b>: Tuesday, February 8th, 2022 before class
 
-To submit this notebook, please copy and paste the URL from this page (it should look something like: https://github.com/cs167/notebook-1-YourGithubNameHere) to the Blackboard assignment before the due date.
+To submit this notebook, please copy and paste the URL from this page (it should look something like: https://github.com/DrakeCS167Spring22/cs167-notebook1-CS167TestStudent.git) to the Blackboard assignment before the due date.
 
 ## The Data
 For this notebook, we're going to explore a movie dataset!
